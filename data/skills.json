@@ -1,0 +1,173 @@
+[
+  {
+    "id": "skill-tutor",
+    "name": "Volunteer maths tutor",
+    "category": "Teaching & tutoring",
+    "description": "Can support small-group school-age maths and homework sessions, including foundational numeracy.",
+    "location": "Pune, Maharashtra",
+    "experience": "Intermediate",
+    "availability": "Weekends",
+    "tags": [
+      "tutoring",
+      "maths",
+      "education",
+      "students"
+    ],
+    "status": "Available",
+    "demo": true
+  },
+  {
+    "id": "skill-carpenter",
+    "name": "Furniture repair carpenter",
+    "category": "Repair & carpentry",
+    "description": "Offers basic wooden desk, shelf and chair repairs using hand tools; small jobs preferred.",
+    "location": "Jaipur, Rajasthan",
+    "experience": "Experienced",
+    "availability": "Limited",
+    "tags": [
+      "carpentry",
+      "furniture",
+      "shelves",
+      "repair",
+      "wood"
+    ],
+    "status": "Available",
+    "demo": true
+  },
+  {
+    "id": "skill-web",
+    "name": "Community web developer",
+    "category": "Digital & technology",
+    "description": "Can build a simple accessible website for a local initiative and help with basic upkeep.",
+    "location": "Kochi, Kerala",
+    "experience": "Intermediate",
+    "availability": "Weekends",
+    "tags": [
+      "web development",
+      "website",
+      "digital",
+      "technology"
+    ],
+    "status": "Available",
+    "demo": true
+  },
+  {
+    "id": "skill-literacy",
+    "name": "Digital literacy facilitator",
+    "category": "Teaching & tutoring",
+    "description": "Can guide beginners through computer basics, safe browsing and common online services.",
+    "location": "Pune, Maharashtra",
+    "experience": "Intermediate",
+    "availability": "Weekday evenings",
+    "tags": [
+      "digital literacy",
+      "computers",
+      "teaching",
+      "training"
+    ],
+    "status": "Available",
+    "demo": true
+  },
+  {
+    "id": "skill-electric",
+    "name": "Basic electrical repair",
+    "category": "Repair & maintenance",
+    "description": "Experienced with simple household electrical checks and minor equipment repairs.",
+    "location": "Bhopal, Madhya Pradesh",
+    "experience": "Experienced",
+    "availability": "Limited",
+    "tags": [
+      "electrical",
+      "repair",
+      "maintenance",
+      "equipment"
+    ],
+    "status": "Available",
+    "demo": true
+  },
+  {
+    "id": "skill-translate",
+    "name": "Hindi-English translator",
+    "category": "Language & translation",
+    "description": "Can translate short community notices, learning materials and event information.",
+    "location": "Jaipur, Rajasthan",
+    "experience": "Intermediate",
+    "availability": "Weekends",
+    "tags": [
+      "translation",
+      "Hindi",
+      "English",
+      "community"
+    ],
+    "status": "Available",
+    "demo": true
+  },
+  {
+    "id": "skill-design",
+    "name": "Volunteer graphic designer",
+    "category": "Creative & design",
+    "description": "Creates clear posters and simple visual materials for workshops and local programmes.",
+    "location": "Lucknow, Uttar Pradesh",
+    "experience": "Intermediate",
+    "availability": "Weekends",
+    "tags": [
+      "graphic design",
+      "posters",
+      "creative",
+      "events"
+    ],
+    "status": "Available",
+    "demo": true
+  },
+  {
+    "id": "skill-garden",
+    "name": "Urban gardening mentor",
+    "category": "Agriculture & gardening",
+    "description": "Can help a group plan a small garden and learn basic composting and plant care.",
+    "location": "Nashik, Maharashtra",
+    "experience": "Experienced",
+    "availability": "Limited",
+    "tags": [
+      "agriculture",
+      "gardening",
+      "compost",
+      "plants"
+    ],
+    "status": "Available",
+    "demo": true
+  },
+  {
+    "id": "skill-sewing",
+    "name": "Clothing and textile repair",
+    "category": "Craft & textile skills",
+    "description": "Can teach basic sewing and mend everyday clothing or reusable fabric items.",
+    "location": "Bhopal, Madhya Pradesh",
+    "experience": "Experienced",
+    "availability": "Weekends",
+    "tags": [
+      "sewing",
+      "textiles",
+      "repair",
+      "teaching"
+    ],
+    "status": "Available",
+    "demo": true
+  },
+  {
+    "id": "skill-volunteer",
+    "name": "Community event volunteer",
+    "category": "Community volunteering",
+    "description": "Can assist with event setup, attendee coordination and distributing learning materials.",
+    "location": "Kochi, Kerala",
+    "experience": "Beginner",
+    "availability": "Weekends",
+    "tags": [
+      "volunteering",
+      "events",
+      "community",
+      "logistics"
+    ],
+    "status": "Available",
+    "demo": true
+  }
+]

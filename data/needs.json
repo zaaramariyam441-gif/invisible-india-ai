@@ -1,0 +1,181 @@
+[
+  {
+    "id": "need-computers",
+    "title": "Computers for a learning centre",
+    "category": "Digital access",
+    "description": "A community learning centre is seeking working computers for beginner digital literacy sessions.",
+    "location": "Pune, Maharashtra",
+    "urgency": "Medium",
+    "required_kind": "resource",
+    "requirements": [
+      "computers",
+      "laptops",
+      "digital learning",
+      "education"
+    ],
+    "beneficiaries": 18,
+    "status": "Open",
+    "demo": true
+  },
+  {
+    "id": "need-desks",
+    "title": "Repair desks for a school",
+    "category": "Education",
+    "description": "A local school needs help repairing wooden desks so they can be returned to classroom use.",
+    "location": "Jaipur, Rajasthan",
+    "urgency": "Medium",
+    "required_kind": "skill",
+    "requirements": [
+      "carpentry",
+      "furniture repair",
+      "desks",
+      "wood"
+    ],
+    "beneficiaries": 24,
+    "status": "Open",
+    "demo": true
+  },
+  {
+    "id": "need-tutors",
+    "title": "Volunteer tutors for after-school learning",
+    "category": "Education",
+    "description": "A neighbourhood study group needs volunteer tutors for foundational maths and homework support.",
+    "location": "Pune, Maharashtra",
+    "urgency": "High",
+    "required_kind": "skill",
+    "requirements": [
+      "tutoring",
+      "maths",
+      "education",
+      "students"
+    ],
+    "beneficiaries": 15,
+    "status": "Open",
+    "demo": true
+  },
+  {
+    "id": "need-website",
+    "title": "A simple website for a community initiative",
+    "category": "Digital access",
+    "description": "A small community initiative needs a basic accessible website to share its programmes and contact details.",
+    "location": "Kochi, Kerala",
+    "urgency": "Low",
+    "required_kind": "skill",
+    "requirements": [
+      "web development",
+      "website",
+      "digital"
+    ],
+    "beneficiaries": 0,
+    "status": "Open",
+    "demo": true
+  },
+  {
+    "id": "need-books",
+    "title": "Books for a children's reading corner",
+    "category": "Learning materials",
+    "description": "A volunteer-run reading corner is looking for age-appropriate storybooks and early readers.",
+    "location": "Kochi, Kerala",
+    "urgency": "Medium",
+    "required_kind": "resource",
+    "requirements": [
+      "books",
+      "reading",
+      "children",
+      "learning"
+    ],
+    "beneficiaries": 20,
+    "status": "Open",
+    "demo": true
+  },
+  {
+    "id": "need-garden",
+    "title": "Guidance for a community garden",
+    "category": "Agriculture & environment",
+    "description": "A local group would benefit from garden planning, basic plant care and composting guidance.",
+    "location": "Nashik, Maharashtra",
+    "urgency": "Low",
+    "required_kind": "skill",
+    "requirements": [
+      "gardening",
+      "agriculture",
+      "compost",
+      "plants"
+    ],
+    "beneficiaries": 12,
+    "status": "Open",
+    "demo": true
+  },
+  {
+    "id": "need-sewing",
+    "title": "Sewing sessions and clothing repair",
+    "category": "Skills & livelihoods",
+    "description": "A community group wants to run beginner sewing sessions and repair reusable fabric items.",
+    "location": "Bhopal, Madhya Pradesh",
+    "urgency": "Low",
+    "required_kind": "skill",
+    "requirements": [
+      "sewing",
+      "textiles",
+      "repair",
+      "teaching"
+    ],
+    "beneficiaries": 10,
+    "status": "Open",
+    "demo": true
+  },
+  {
+    "id": "need-tools",
+    "title": "Tools for a neighbourhood repair day",
+    "category": "Community facilities",
+    "description": "A volunteer group needs shared hand tools and a drill for a furniture repair event.",
+    "location": "Jaipur, Rajasthan",
+    "urgency": "Medium",
+    "required_kind": "resource",
+    "requirements": [
+      "tools",
+      "repair",
+      "carpentry",
+      "workshop"
+    ],
+    "beneficiaries": 12,
+    "status": "Open",
+    "demo": true
+  },
+  {
+    "id": "need-posters",
+    "title": "Design help for learning event posters",
+    "category": "Community programmes",
+    "description": "A learning group needs clear event posters and simple information materials for families.",
+    "location": "Lucknow, Uttar Pradesh",
+    "urgency": "Low",
+    "required_kind": "skill",
+    "requirements": [
+      "graphic design",
+      "posters",
+      "events",
+      "creative"
+    ],
+    "beneficiaries": 35,
+    "status": "Open",
+    "demo": true
+  },
+  {
+    "id": "need-meals",
+    "title": "Community cooking workshop",
+    "category": "Food & community",
+    "description": "A neighbourhood group is planning a practical cooking workshop and needs access to a teaching kitchen.",
+    "location": "Kochi, Kerala",
+    "urgency": "Low",
+    "required_kind": "resource",
+    "requirements": [
+      "kitchen",
+      "food",
+      "community",
+      "training"
+    ],
+    "beneficiaries": 16,
+    "status": "Open",
+    "demo": true
+  }
+]

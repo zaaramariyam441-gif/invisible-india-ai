@@ -1,0 +1,172 @@
+[
+  {
+    "id": "res-computers",
+    "name": "Refurbished learning laptops",
+    "category": "Computers & digital equipment",
+    "description": "Six tested laptops available for supervised digital literacy sessions at a community learning space.",
+    "location": "Pune, Maharashtra",
+    "availability": "Available",
+    "owner": "Demo Learning Collective",
+    "tags": [
+      "computers",
+      "laptops",
+      "digital learning",
+      "education"
+    ],
+    "status": "Available",
+    "demo": true
+  },
+  {
+    "id": "res-desks",
+    "name": "Surplus classroom desks",
+    "category": "Educational spaces",
+    "description": "A small set of sturdy classroom desks. Some need minor carpentry repairs before reuse.",
+    "location": "Jaipur, Rajasthan",
+    "availability": "Limited",
+    "owner": "Example School Resource Hub",
+    "tags": [
+      "desks",
+      "school",
+      "furniture",
+      "repair"
+    ],
+    "status": "Available",
+    "demo": true
+  },
+  {
+    "id": "res-tools",
+    "name": "Shared repair tool kit",
+    "category": "Tools & equipment",
+    "description": "Hand tools and a drill for community furniture repair projects, bookable in advance.",
+    "location": "Jaipur, Rajasthan",
+    "availability": "Available",
+    "owner": "Demo Neighbourhood Workshop",
+    "tags": [
+      "tools",
+      "repair",
+      "carpentry",
+      "workshop"
+    ],
+    "status": "Available",
+    "demo": true
+  },
+  {
+    "id": "res-books",
+    "name": "Children’s reading collection",
+    "category": "Books & learning materials",
+    "description": "Illustrated storybooks and early-reader books for a small community reading corner.",
+    "location": "Kochi, Kerala",
+    "availability": "Available",
+    "owner": "Example Reading Room",
+    "tags": [
+      "books",
+      "children",
+      "reading",
+      "learning"
+    ],
+    "status": "Available",
+    "demo": true
+  },
+  {
+    "id": "res-hall",
+    "name": "Community meeting room",
+    "category": "Community facilities",
+    "description": "Accessible multipurpose room with seating for workshops, tutoring and neighbourhood meetings.",
+    "location": "Pune, Maharashtra",
+    "availability": "Limited",
+    "owner": "Demo Community Space",
+    "tags": [
+      "community",
+      "room",
+      "workshops",
+      "tutoring"
+    ],
+    "status": "Available",
+    "demo": true
+  },
+  {
+    "id": "res-sewing",
+    "name": "Shared sewing machines",
+    "category": "Tools & equipment",
+    "description": "Three working sewing machines for supervised textile skills sessions and clothing repair.",
+    "location": "Bhopal, Madhya Pradesh",
+    "availability": "Available",
+    "owner": "Example Maker Circle",
+    "tags": [
+      "sewing",
+      "textiles",
+      "machines",
+      "repair"
+    ],
+    "status": "Available",
+    "demo": true
+  },
+  {
+    "id": "res-water",
+    "name": "Rainwater storage tanks",
+    "category": "Agricultural resources",
+    "description": "Two clean storage tanks that may support a community garden or small demonstration farm.",
+    "location": "Nashik, Maharashtra",
+    "availability": "Unknown",
+    "owner": "Demo Garden Network",
+    "tags": [
+      "water",
+      "agriculture",
+      "garden",
+      "storage"
+    ],
+    "status": "Available",
+    "demo": true
+  },
+  {
+    "id": "res-projector",
+    "name": "Portable projector",
+    "category": "Computers & digital equipment",
+    "description": "A portable projector for presentations, film screenings and community learning events.",
+    "location": "Lucknow, Uttar Pradesh",
+    "availability": "Available",
+    "owner": "Example Open Learning Group",
+    "tags": [
+      "projector",
+      "digital",
+      "education",
+      "events"
+    ],
+    "status": "Available",
+    "demo": true
+  },
+  {
+    "id": "res-bus",
+    "name": "Occasional volunteer transport",
+    "category": "Transport & logistics",
+    "description": "A small van may be available for pre-arranged transport of donated learning materials.",
+    "location": "Jaipur, Rajasthan",
+    "availability": "Limited",
+    "owner": "Demo Logistics Circle",
+    "tags": [
+      "transport",
+      "delivery",
+      "books",
+      "logistics"
+    ],
+    "status": "Available",
+    "demo": true
+  },
+  {
+    "id": "res-kitchen",
+    "name": "Shared community kitchen",
+    "category": "Community facilities",
+    "description": "A hygienic teaching kitchen for community cooking and food skills workshops.",
+    "location": "Kochi, Kerala",
+    "availability": "Limited",
+    "owner": "Example Neighbourhood Kitchen",
+    "tags": [
+      "kitchen",
+      "food",
+      "community",
+      "training"
+    ],
+    "status": "Available",
+    "demo": true
+  }
+]
