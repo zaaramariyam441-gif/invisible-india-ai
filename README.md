@@ -37,6 +37,12 @@ Required: Python 3.10 or newer and a terminal such as PowerShell.
 
 6. Open <http://127.0.0.1:5000> in a browser. Stop the server with `Ctrl+C`.
 
+## Deploy to Render
+
+The repository includes `render.yaml` for a Render Blueprint web service. In the Render dashboard, choose **New + → Blueprint**, connect the `invisible-india-ai` GitHub repository, and apply the Blueprint. The service uses Gunicorn and checks `/api/health` after deployment. Render supplies the `PORT` environment variable.
+
+The free service uses an ephemeral filesystem. JSON submissions and feedback can be lost when the service restarts or redeploys. For persistent hosted data, attach a paid Render persistent disk mounted at `/var/data`, or move storage to a managed database; the current JSON prototype does not automatically configure either option. Do not enter sensitive personal or contact information into a public deployment.
+
 The presentation files in the project are separate deliverables. The Flask application is served from `static/index.html`.
 
 ## Included
